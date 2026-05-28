@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersecrypt",
+        "uuid": 13586250,
+        "checksum": "e87p9u"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
